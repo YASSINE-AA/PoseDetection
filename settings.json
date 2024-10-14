@@ -1,0 +1,14 @@
+{
+    "squat": {
+        "angle_range": [80, 120],
+        "shoulder_alignment_tolerance": 0.1,
+        "instructions": "Stand with feet shoulder-width apart, lower down as if sitting back.",
+        "preview": "gifs/squat_preview.gif"
+    },
+    "pushup": {
+        "angle_range": [60, 90],
+        "shoulder_alignment_tolerance": 0.1,
+        "instructions": "Keep your body straight from head to heels, lower yourself down.",
+        "preview": "gifs/pushup_preview.gif"
+    }
+}
